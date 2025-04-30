@@ -52,7 +52,7 @@
 <style>
     .head {
         font-weight: bold;
-        font-size: larger;
+        font-size: 60px;
         display: flex;
         justify-content: center;
     }
